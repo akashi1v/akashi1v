@@ -8,7 +8,7 @@ Hi👋,i am akashi a cyber security enthusiast
 ---
 ###    about me           
 
-<img align="left" src="https://c.tenor.com/8osb_2l-pnsAAAAM/asta-demon.gif" width="200"/>
+<img align="left" src="https://c.tenor.com/8osb_2l-pnsAAAAM/asta-demon.gif" width="150"/>
 
  ```csharp
 username : akashi
